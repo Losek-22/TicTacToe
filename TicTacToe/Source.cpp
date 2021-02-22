@@ -7,11 +7,6 @@ Note: This code does not represent my current programming skills. I've done it a
 completing first out of three parts of Bjarne Stroustrup's "Programming - Principles and Practise using C++"
 as an exercise. My skills keep improving.
 
-TO DO:
-- functions should not contain console output code, I need to change that
-
-Author: Przemyslaw Wysocki 
-		https://github.com/Losek-22
 */
 
 int main() {
